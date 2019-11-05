@@ -1,0 +1,891 @@
+Survived,Pclass,Sex,Fare,Cabin,Embarked
+1,A1,female,high,given,C
+1,C3,female,low,not given,S
+1,A1,female,high,given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,Q
+0,A1,male,high,given,S
+0,C3,male,medium,not given,S
+1,C3,female,medium,not given,S
+1,B2,female,high,not given,C
+1,C3,female,medium,given,S
+1,A1,female,high,given,S
+0,C3,male,low,not given,S
+0,C3,male,high,not given,S
+0,C3,female,low,not given,S
+1,B2,female,medium,not given,S
+0,C3,male,high,not given,Q
+1,B2,male,medium,not given,S
+0,C3,female,medium,not given,S
+1,C3,female,low,not given,C
+0,B2,male,medium,not given,S
+1,B2,male,medium,given,S
+1,C3,female,low,not given,Q
+1,A1,male,high,given,S
+0,C3,female,medium,not given,S
+1,C3,female,high,not given,S
+0,C3,male,low,not given,C
+0,A1,male,high,given,S
+1,C3,female,low,not given,Q
+0,C3,male,low,not given,S
+0,A1,male,high,not given,C
+1,A1,female,high,given,C
+1,C3,female,low,not given,Q
+0,B2,male,medium,not given,S
+0,A1,male,high,not given,C
+0,A1,male,high,not given,S
+1,C3,male,low,not given,C
+0,C3,male,low,not given,S
+0,C3,female,medium,not given,S
+1,C3,female,medium,not given,C
+0,C3,female,medium,not given,S
+0,B2,female,medium,not given,S
+0,C3,male,low,not given,C
+1,B2,female,high,not given,C
+1,C3,female,low,not given,Q
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,Q
+1,C3,female,low,not given,Q
+0,C3,male,medium,not given,C
+0,C3,female,medium,not given,S
+0,C3,male,high,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,C
+1,B2,female,medium,not given,S
+0,A1,male,high,given,C
+1,A1,male,high,given,S
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,C
+1,B2,female,high,not given,S
+0,C3,male,high,not given,S
+0,C3,male,low,not given,C
+1,A1,female,high,given,S
+0,A1,male,high,given,S
+0,C3,male,high,not given,S
+0,A1,male,high,not given,C
+1,C3,male,medium,not given,C
+1,B2,female,medium,given,S
+0,C3,male,low,not given,S
+1,C3,female,low,not given,S
+0,C3,male,medium,not given,S
+0,B2,male,medium,not given,S
+0,C3,female,high,not given,S
+0,B2,male,high,not given,S
+0,C3,male,medium,not given,C
+1,C3,male,high,not given,S
+0,C3,male,low,given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,B2,male,high,not given,S
+1,C3,female,medium,not given,S
+0,C3,male,medium,not given,S
+1,C3,male,medium,not given,S
+1,C3,female,low,not given,Q
+0,A1,male,high,not given,S
+1,B2,female,medium,not given,S
+1,C3,female,medium,not given,S
+0,C3,male,high,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,given,C
+1,A1,male,high,given,C
+1,B2,female,medium,not given,S
+0,B2,male,medium,not given,S
+0,C3,female,low,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,C3,female,low,not given,S
+1,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,C3,female,medium,not given,Q
+0,A1,male,high,given,S
+0,C3,female,medium,not given,C
+0,C3,male,low,not given,S
+0,C3,female,medium,not given,S
+0,C3,female,medium,not given,C
+0,C3,male,low,not given,S
+0,C3,male,low,not given,Q
+0,B2,male,medium,not given,S
+0,A1,male,high,given,C
+0,C3,female,high,not given,S
+0,B2,male,high,not given,S
+0,C3,male,low,not given,S
+0,B2,male,high,not given,C
+1,B2,female,medium,given,S
+0,A1,male,high,given,S
+1,C3,male,medium,not given,C
+0,C3,male,low,not given,Q
+1,C3,male,low,not given,S
+1,C3,female,medium,given,C
+0,C3,male,low,not given,S
+0,C3,male,low,not given,C
+0,C3,male,low,not given,S
+0,C3,female,medium,not given,S
+1,B2,female,medium,not given,S
+0,B2,male,medium,not given,S
+0,B2,male,medium,not given,C
+1,A1,female,high,given,S
+0,A1,male,high,given,S
+0,C3,male,medium,not given,S
+0,A1,male,high,given,C
+0,C3,female,medium,not given,C
+1,C3,female,low,not given,S
+1,C3,female,medium,not given,S
+0,C3,male,low,not given,Q
+0,B2,male,medium,not given,S
+0,B2,male,high,not given,S
+1,C3,male,low,not given,S
+0,C3,female,high,not given,S
+0,B2,male,medium,given,S
+0,B2,male,medium,not given,S
+0,B2,male,medium,not given,S
+1,A1,female,high,given,S
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,not given,C
+1,C3,female,low,not given,Q
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,high,not given,S
+0,C3,male,medium,not given,S
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,high,not given,S
+1,C3,male,medium,not given,S
+1,A1,female,high,given,S
+0,C3,female,high,not given,S
+0,A1,male,medium,not given,S
+0,C3,male,high,not given,S
+0,A1,male,high,given,S
+0,C3,male,high,not given,Q
+1,C3,female,medium,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,given,C
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+0,A1,female,high,given,C
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,female,high,not given,S
+0,B2,male,medium,not given,C
+0,C3,male,high,not given,S
+1,B2,male,high,given,S
+1,C3,female,medium,not given,S
+0,A1,male,high,given,S
+1,C3,female,medium,not given,Q
+1,A1,male,high,not given,S
+0,C3,male,medium,not given,Q
+0,C3,male,low,not given,S
+1,B2,female,medium,not given,S
+0,B2,male,medium,not given,S
+1,C3,female,low,not given,S
+1,B2,male,medium,given,S
+1,A1,female,high,given,C
+1,A1,female,high,given,C
+0,C3,male,low,not given,Q
+0,C3,male,low,not given,S
+1,C3,female,low,not given,Q
+0,B2,female,medium,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,high,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,C
+1,C3,male,low,not given,S
+0,C3,female,medium,given,S
+0,C3,male,medium,not given,S
+1,C3,male,medium,not given,C
+1,C3,female,low,not given,Q
+1,A1,male,high,given,C
+0,C3,male,low,not given,S
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,Q
+1,A1,female,high,given,C
+1,C3,female,low,not given,S
+0,B2,male,high,not given,S
+1,A1,female,high,given,C
+0,B2,male,medium,not given,S
+1,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,A1,male,high,given,S
+0,C3,male,medium,not given,S
+1,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+0,C3,female,medium,not given,S
+1,A1,female,high,given,S
+0,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+1,C3,female,high,not given,S
+0,B2,male,medium,not given,S
+0,C3,female,low,not given,S
+0,B2,male,medium,not given,S
+1,B2,female,high,not given,S
+0,B2,male,medium,not given,S
+0,B2,male,medium,not given,S
+0,C3,female,medium,not given,C
+1,C3,female,medium,not given,Q
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,C
+0,A1,male,high,given,Q
+0,C3,female,low,not given,S
+1,B2,female,medium,not given,S
+1,A1,male,high,given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,female,medium,given,S
+0,A1,male,high,given,S
+0,C3,male,medium,not given,S
+0,C3,female,medium,not given,S
+1,C3,female,medium,not given,C
+1,A1,female,high,not given,C
+1,A1,female,high,given,S
+1,A1,female,high,not given,C
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,Q
+1,C3,male,high,not given,S
+0,A1,male,high,given,S
+0,A1,male,low,given,S
+0,C3,female,low,not given,Q
+0,B2,male,medium,not given,S
+0,C3,male,high,not given,S
+1,C3,male,low,not given,S
+1,A1,female,high,given,S
+1,A1,female,high,given,S
+0,A1,male,high,not given,S
+1,C3,male,low,not given,S
+1,B2,female,medium,not given,S
+0,A1,male,high,given,C
+1,C3,female,low,not given,Q
+1,A1,female,high,given,S
+0,C3,female,low,not given,S
+0,B2,male,low,not given,S
+0,C3,male,high,not given,Q
+1,C3,female,medium,not given,S
+0,C3,male,low,not given,Q
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+1,C3,male,low,not given,S
+0,A1,male,medium,given,S
+0,C3,male,medium,not given,C
+1,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+1,B2,male,medium,not given,S
+1,C3,female,low,not given,Q
+1,A1,female,high,not given,S
+1,A1,female,high,given,C
+0,B2,male,medium,given,C
+0,C3,female,medium,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,not given,C
+0,C3,male,low,not given,C
+0,A1,female,high,given,S
+1,A1,male,high,given,S
+1,A1,female,high,given,C
+1,C3,female,low,not given,Q
+1,C3,male,medium,not given,Q
+0,C3,male,low,not given,S
+1,B2,female,medium,given,Q
+0,C3,male,low,not given,S
+1,A1,male,high,given,S
+1,A1,female,high,not given,C
+1,A1,female,high,given,C
+0,B2,male,medium,not given,C
+1,A1,female,high,given,C
+1,A1,female,high,given,C
+1,A1,female,high,given,C
+0,B2,female,medium,not given,S
+0,C3,male,low,not given,S
+0,B2,male,high,not given,S
+1,C3,female,low,not given,S
+1,B2,female,medium,not given,S
+0,B2,male,medium,not given,S
+1,A1,female,high,given,S
+1,A1,female,high,given,C
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,B2,female,medium,not given,Q
+1,B2,female,high,not given,S
+0,C3,male,high,not given,S
+1,A1,female,high,given,C
+0,C3,male,low,not given,S
+1,B2,female,medium,given,S
+1,C3,female,medium,not given,S
+1,A1,female,high,given,C
+1,C3,female,medium,not given,Q
+0,A1,male,high,given,S
+0,A1,male,high,given,S
+0,C3,male,medium,not given,S
+1,A1,female,high,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,given,S
+1,A1,female,high,given,C
+1,C3,male,low,not given,S
+0,A1,male,high,given,S
+1,B2,male,medium,given,S
+1,A1,female,high,given,S
+0,B2,male,medium,not given,S
+0,B2,male,medium,not given,S
+0,B2,male,medium,not given,S
+1,B2,female,medium,given,S
+1,B2,female,medium,not given,S
+1,C3,female,medium,not given,S
+1,C3,male,medium,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,medium,not given,S
+0,A1,male,high,given,S
+0,C3,male,low,not given,C
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,C
+0,C3,male,medium,not given,S
+1,A1,female,high,given,S
+0,B2,female,medium,not given,S
+1,C3,female,low,not given,Q
+1,C3,female,low,not given,Q
+0,C3,male,high,not given,S
+0,B2,male,high,not given,C
+0,C3,female,medium,not given,C
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,Q
+0,C3,male,low,not given,S
+1,A1,female,high,given,C
+1,C3,female,low,not given,C
+1,C3,female,low,not given,Q
+1,A1,female,high,given,C
+1,A1,male,high,given,C
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,not given,C
+0,C3,female,medium,not given,S
+1,A1,female,high,not given,C
+1,C3,female,low,not given,S
+0,A1,male,high,given,C
+0,C3,male,low,not given,C
+0,C3,male,low,not given,S
+1,A1,female,high,not given,C
+1,C3,female,medium,not given,C
+0,C3,male,low,not given,S
+1,A1,female,high,not given,S
+0,C3,male,low,not given,S
+0,B2,male,high,not given,S
+0,C3,male,high,not given,S
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,Q
+1,B2,female,medium,not given,C
+1,A1,male,high,given,S
+1,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,C
+1,C3,female,medium,given,S
+0,C3,male,low,not given,S
+0,C3,female,low,not given,S
+0,B2,male,medium,not given,S
+0,B2,male,medium,not given,S
+1,B2,female,medium,not given,S
+1,C3,male,low,not given,S
+0,C3,male,low,not given,S
+0,C3,female,medium,not given,S
+0,C3,male,medium,not given,S
+0,C3,female,medium,not given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+1,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,female,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,Q
+1,A1,female,high,given,Q
+0,B2,male,low,not given,S
+1,C3,male,low,not given,S
+0,C3,female,low,not given,S
+1,B2,female,high,not given,S
+1,B2,female,medium,not given,S
+0,B2,male,medium,not given,S
+0,C3,female,medium,not given,S
+0,C3,male,low,not given,C
+0,C3,male,low,not given,Q
+0,C3,male,low,not given,S
+0,C3,female,medium,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+1,B2,female,medium,not given,S
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,Q
+1,C3,male,low,given,S
+1,A1,male,high,given,S
+1,C3,female,medium,not given,S
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,given,S
+1,A1,female,high,given,S
+0,C3,female,high,not given,S
+1,B2,female,medium,not given,S
+0,A1,male,high,given,S
+0,B2,male,medium,not given,S
+1,B2,female,high,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+1,B2,female,medium,not given,S
+1,C3,male,low,not given,S
+1,A1,male,high,given,S
+1,B2,female,medium,not given,S
+1,A1,male,high,not given,S
+1,C3,female,medium,not given,C
+1,A1,male,high,given,S
+0,B2,male,high,not given,S
+0,C3,male,medium,not given,S
+0,A1,male,high,given,C
+1,A1,male,high,given,C
+0,C3,male,low,not given,S
+1,C3,male,low,not given,C
+0,A1,male,high,given,S
+1,A1,female,high,given,S
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,Q
+1,A1,male,high,given,S
+0,C3,male,low,not given,S
+0,A1,male,high,given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+0,B2,male,low,not given,S
+0,A1,male,high,not given,S
+0,C3,male,low,not given,Q
+1,C3,female,medium,not given,C
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+1,B2,female,high,not given,S
+1,B2,female,medium,given,C
+0,C3,female,medium,not given,S
+0,A1,male,high,given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,C3,female,medium,not given,S
+0,C3,male,high,not given,S
+0,B2,male,low,not given,S
+0,C3,male,low,not given,S
+1,C3,female,medium,not given,S
+1,A1,male,high,given,C
+0,C3,female,medium,not given,S
+1,A1,female,high,given,S
+0,A1,male,high,given,C
+0,C3,male,low,not given,S
+1,C3,male,medium,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,given,S
+0,A1,male,high,not given,C
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,C
+1,A1,female,high,given,C
+0,C3,male,medium,not given,S
+0,A1,female,high,given,S
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+0,C3,female,low,not given,Q
+0,C3,female,low,not given,Q
+0,C3,female,medium,not given,S
+1,A1,female,high,given,S
+0,A1,male,high,given,C
+1,B2,female,medium,not given,S
+1,A1,male,high,not given,S
+0,C3,male,medium,not given,S
+1,C3,male,high,not given,S
+1,C3,male,low,not given,Q
+0,C3,male,low,not given,S
+1,A1,male,high,given,S
+1,A1,female,high,not given,C
+0,C3,male,low,not given,S
+0,A1,male,high,given,S
+1,B2,female,medium,given,S
+0,C3,male,medium,not given,Q
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,C
+1,A1,female,high,given,C
+0,C3,male,low,not given,C
+0,C3,male,low,not given,Q
+1,B2,female,medium,not given,S
+0,A1,male,high,given,S
+0,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,C
+0,C3,male,low,not given,C
+1,C3,female,medium,not given,C
+0,C3,female,medium,not given,S
+1,B2,female,high,not given,S
+0,A1,male,high,given,S
+1,A1,female,high,not given,C
+0,C3,male,medium,not given,S
+1,A1,female,high,given,C
+1,A1,female,high,given,S
+0,C3,female,high,not given,S
+0,C3,female,high,not given,S
+1,B2,male,medium,not given,S
+0,A1,male,high,given,C
+0,A1,male,medium,not given,S
+1,B2,female,medium,not given,S
+1,B2,male,medium,not given,C
+0,C3,male,medium,not given,S
+1,B2,male,high,not given,S
+1,A1,male,high,given,C
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,Q
+1,C3,male,low,not given,C
+1,C3,female,low,not given,S
+0,A1,male,high,not given,S
+1,A1,female,high,given,C
+0,A1,male,high,not given,C
+1,A1,female,high,given,S
+1,C3,female,medium,not given,S
+0,C3,male,low,not given,Q
+0,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,female,low,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,female,medium,not given,S
+0,C3,male,low,not given,C
+1,C3,male,low,not given,S
+1,B2,male,medium,not given,S
+1,A1,female,high,given,S
+1,A1,male,high,given,S
+1,C3,female,low,not given,Q
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+1,B2,female,medium,not given,S
+1,A1,female,high,given,S
+0,C3,female,medium,not given,C
+1,C3,male,low,not given,S
+1,B2,female,high,not given,S
+1,A1,female,high,given,C
+0,B2,male,medium,not given,S
+0,A1,male,high,given,C
+0,C3,male,medium,not given,C
+1,A1,female,high,given,S
+0,B2,male,medium,not given,S
+1,A1,male,high,given,C
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,C
+0,C3,male,low,not given,S
+0,C3,female,low,not given,Q
+0,B2,male,medium,not given,S
+0,C3,male,medium,not given,S
+1,B2,female,high,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,C
+1,A1,male,high,given,C
+1,B2,female,high,not given,S
+0,C3,male,low,not given,S
+0,A1,male,high,not given,S
+0,C3,male,low,not given,S
+1,A1,male,high,not given,C
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+1,A1,male,high,not given,S
+1,B2,female,high,not given,C
+1,A1,female,high,given,S
+0,C3,female,high,not given,S
+0,C3,male,low,not given,S
+1,C3,female,medium,not given,Q
+0,C3,male,low,not given,Q
+0,C3,male,low,not given,S
+1,B2,female,high,not given,S
+0,C3,male,medium,not given,S
+0,C3,female,medium,not given,S
+1,B2,female,high,given,S
+0,B2,male,medium,not given,S
+0,C3,male,medium,not given,C
+1,A1,male,high,given,S
+1,C3,male,medium,not given,C
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+0,A1,male,high,given,S
+0,B2,male,medium,not given,Q
+1,A1,female,high,given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,Q
+1,A1,male,high,given,S
+0,C3,male,low,not given,S
+1,A1,male,high,given,C
+0,A1,male,low,not given,S
+0,C3,female,high,not given,S
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,S
+0,B2,male,high,not given,S
+0,C3,female,high,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,C
+0,C3,female,high,not given,S
+1,C3,male,high,not given,S
+1,C3,female,medium,not given,C
+1,A1,male,high,given,C
+0,C3,male,low,not given,S
+1,A1,male,high,given,C
+0,C3,male,low,not given,S
+1,C3,female,low,not given,S
+0,C3,male,low,not given,S
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,S
+1,C3,female,low,not given,Q
+0,C3,female,low,not given,Q
+0,B2,male,high,not given,S
+0,C3,male,low,not given,S
+0,C3,female,medium,not given,Q
+0,B2,male,medium,not given,S
+0,A1,male,high,given,C
+1,A1,male,high,not given,S
+0,C3,male,low,not given,C
+0,A1,male,medium,given,S
+0,C3,male,low,not given,S
+1,C3,male,low,not given,S
+0,B2,male,high,not given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,S
+1,B2,female,high,not given,S
+0,A1,male,high,given,S
+0,B2,male,medium,not given,S
+1,B2,male,medium,not given,S
+0,B2,male,low,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,C3,female,medium,not given,S
+0,C3,female,high,not given,S
+1,A1,male,high,given,C
+0,C3,female,low,not given,Q
+1,A1,male,high,given,C
+0,C3,male,medium,not given,S
+0,C3,male,high,not given,S
+0,B2,male,high,not given,S
+0,B2,male,high,not given,C
+0,C3,male,high,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,S
+1,A1,male,high,given,S
+1,C3,female,medium,not given,C
+1,C3,male,high,not given,S
+0,C3,male,low,not given,C
+0,A1,male,high,not given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+1,C3,female,low,not given,Q
+0,A1,male,high,given,C
+0,C3,male,low,given,S
+1,A1,female,high,given,C
+1,A1,male,high,given,S
+0,C3,female,medium,not given,C
+0,C3,male,low,not given,Q
+0,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+1,B2,female,medium,not given,S
+1,A1,male,high,given,S
+1,A1,female,high,not given,S
+1,C3,male,medium,not given,C
+1,A1,female,high,given,C
+0,A1,male,high,given,S
+1,A1,male,high,given,S
+0,C3,male,medium,not given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,given,S
+1,A1,female,high,given,C
+1,B2,female,medium,given,S
+0,C3,male,medium,not given,Q
+0,C3,male,low,not given,S
+1,B2,female,high,not given,S
+0,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+0,B2,male,medium,not given,S
+1,A1,male,high,given,S
+0,C3,male,medium,not given,S
+1,B2,female,medium,not given,S
+1,C3,female,low,not given,Q
+0,B2,male,medium,not given,S
+0,C3,female,low,not given,S
+1,A1,female,high,given,S
+0,C3,male,medium,not given,C
+0,B2,male,low,not given,S
+0,B2,male,medium,not given,S
+0,B2,male,medium,not given,S
+0,C3,male,medium,not given,S
+0,C3,female,high,not given,S
+1,A1,male,high,given,C
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,A1,male,high,given,S
+0,A1,male,high,given,S
+1,A1,female,high,given,C
+0,C3,male,medium,not given,S
+1,C3,male,low,not given,S
+0,A1,male,high,given,S
+0,C3,male,medium,not given,S
+1,B2,female,medium,not given,S
+0,A1,male,high,given,S
+0,C3,male,low,not given,Q
+1,B2,female,medium,not given,S
+1,C3,male,medium,given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+1,B2,female,high,not given,S
+1,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+1,C3,male,low,not given,C
+1,A1,female,high,given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,S
+0,A1,male,high,not given,C
+0,C3,female,low,not given,Q
+0,C3,male,medium,not given,Q
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+0,B2,female,medium,given,S
+0,C3,male,low,not given,C
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,given,Q
+1,C3,female,medium,not given,S
+0,C3,male,low,not given,Q
+1,A1,female,high,given,S
+1,C3,female,low,not given,C
+1,A1,female,high,given,S
+0,A1,male,high,given,S
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,C3,female,low,not given,S
+0,C3,male,high,not given,Q
+1,C3,male,medium,not given,S
+0,A1,male,high,given,C
+0,C3,male,low,not given,Q
+0,B2,male,medium,not given,S
+0,C3,female,high,not given,S
+0,A1,male,high,not given,C
+0,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+1,A1,female,medium,given,S
+1,C3,female,medium,not given,S
+0,C3,male,low,not given,C
+0,C3,female,medium,not given,S
+0,B2,male,medium,not given,S
+1,B2,female,high,not given,S
+1,A1,male,high,given,S
+1,C3,male,low,not given,C
+1,C3,male,low,not given,S
+0,C3,male,low,not given,S
+0,A1,male,low,given,S
+0,C3,female,low,not given,S
+0,B2,male,medium,not given,S
+1,A1,female,high,given,S
+0,C3,male,low,not given,S
+0,C3,male,medium,not given,S
+0,B2,male,medium,not given,S
+0,C3,female,high,not given,S
+0,C3,male,low,not given,S
+0,A1,male,low,given,S
+0,C3,female,low,not given,S
+0,B2,male,high,not given,C
+0,C3,male,low,not given,S
+0,C3,male,high,not given,S
+1,A1,female,high,given,S
+1,C3,male,medium,not given,S
+0,A1,male,low,not given,S
+1,C3,female,medium,given,S
+0,C3,male,high,not given,S
+0,C3,male,low,not given,Q
+0,C3,male,high,not given,S
+1,B2,male,high,not given,C
+1,C3,male,low,not given,Q
+1,A1,female,high,given,S
+1,C3,female,medium,not given,C
+1,B2,male,medium,not given,S
+0,C3,male,low,not given,C
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,C
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+1,C3,male,high,not given,S
+1,A1,male,high,given,C
+0,C3,male,low,not given,S
+0,B2,male,medium,not given,S
+1,A1,female,high,not given,C
+0,C3,male,low,not given,C
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,high,not given,S
+0,C3,male,low,not given,C
+0,B2,male,high,not given,S
+1,A1,female,high,given,C
+0,C3,male,high,not given,S
+0,C3,male,low,not given,S
+0,C3,female,medium,not given,C
+1,A1,female,high,given,S
+0,B2,female,medium,not given,S
+1,C3,female,medium,not given,S
+1,A1,female,high,not given,S
+1,A1,male,high,given,S
+1,C3,female,medium,not given,C
+0,C3,male,low,not given,C
+0,C3,male,medium,not given,S
+0,B2,male,medium,not given,S
+1,A1,female,medium,given,S
+0,C3,female,high,not given,S
+0,B2,male,medium,not given,S
+1,B2,female,medium,not given,S
+1,B2,female,medium,not given,C
+0,A1,male,high,given,S
+0,C3,male,medium,not given,S
+1,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,S
+0,A1,male,low,given,S
+0,C3,male,medium,not given,S
+1,B2,female,medium,not given,C
+1,C3,female,low,not given,C
+0,C3,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,male,low,not given,S
+1,A1,female,high,given,C
+1,B2,female,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,female,medium,not given,S
+0,B2,male,medium,not given,S
+0,C3,male,low,not given,S
+0,C3,female,high,not given,Q
+0,B2,male,medium,not given,S
+1,A1,female,high,given,S
+0,C3,female,medium,not given,S
+1,A1,male,high,given,C
+0,C3,male,low,not given,Q

@@ -1,0 +1,419 @@
+Pclass,Sex,Fare,Cabin,Embarked
+C3,male,low,not given,Q
+C3,female,low,not given,S
+B2,male,medium,not given,Q
+C3,male,medium,not given,S
+C3,female,medium,not given,S
+C3,male,medium,not given,S
+C3,female,low,not given,Q
+B2,male,high,not given,S
+C3,female,low,not given,C
+C3,male,medium,not given,S
+C3,male,low,not given,S
+A1,male,medium,not given,S
+A1,female,high,given,S
+B2,male,medium,not given,S
+A1,female,high,given,S
+B2,female,high,not given,C
+B2,male,medium,not given,Q
+C3,male,low,not given,C
+C3,female,low,not given,S
+C3,female,low,not given,C
+A1,male,high,not given,C
+C3,male,low,not given,S
+A1,female,high,not given,S
+A1,male,high,not given,C
+A1,female,high,given,C
+C3,male,medium,not given,S
+A1,female,high,given,C
+C3,male,low,not given,C
+A1,male,high,given,S
+C3,male,medium,not given,C
+B2,male,medium,not given,S
+B2,male,high,not given,S
+C3,female,medium,not given,S
+C3,female,medium,not given,S
+A1,male,high,given,C
+C3,male,low,not given,C
+C3,female,low,not given,S
+C3,female,medium,not given,S
+C3,male,medium,not given,S
+C3,male,high,not given,S
+C3,male,medium,not given,C
+A1,male,high,given,S
+C3,male,low,not given,S
+B2,female,medium,not given,S
+A1,female,high,given,S
+C3,male,low,not given,S
+A1,male,high,given,C
+C3,male,low,not given,Q
+A1,female,high,given,C
+C3,female,medium,not given,S
+A1,male,high,given,S
+B2,male,medium,not given,C
+B2,female,medium,not given,S
+A1,female,high,given,S
+B2,male,medium,not given,C
+C3,male,high,not given,Q
+C3,male,low,not given,S
+C3,male,low,given,S
+C3,male,medium,not given,S
+A1,female,high,given,C
+C3,male,low,not given,S
+B2,male,medium,not given,S
+C3,male,low,not given,S
+C3,female,low,not given,Q
+A1,male,high,given,C
+B2,female,medium,not given,S
+C3,female,low,not given,Q
+A1,male,high,not given,S
+A1,male,high,given,C
+A1,female,high,given,S
+C3,female,low,not given,Q
+C3,male,low,not given,S
+C3,female,low,not given,S
+A1,male,high,given,C
+A1,female,high,given,C
+A1,male,high,given,C
+C3,male,low,not given,S
+A1,female,medium,given,S
+B2,male,medium,not given,S
+C3,female,low,not given,Q
+C3,male,medium,not given,C
+A1,male,high,given,S
+A1,male,medium,not given,S
+C3,male,low,not given,S
+B2,male,medium,not given,Q
+C3,male,medium,not given,C
+C3,female,low,not given,Q
+C3,female,low,not given,S
+C3,female,low,not given,Q
+B2,male,medium,not given,S
+C3,female,medium,not given,S
+C3,male,low,not given,S
+A1,female,high,given,S
+C3,male,low,not given,S
+A1,male,medium,not given,C
+C3,male,low,not given,S
+A1,female,high,given,S
+C3,male,low,not given,S
+C3,female,low,not given,S
+C3,male,low,not given,S
+A1,female,high,given,C
+B2,male,medium,not given,S
+C3,male,low,not given,Q
+C3,male,low,not given,S
+C3,female,low,not given,C
+C3,male,medium,not given,S
+C3,male,low,not given,Q
+C3,male,low,not given,Q
+C3,male,medium,not given,S
+B2,male,medium,given,S
+B2,male,medium,not given,C
+C3,female,low,not given,Q
+A1,female,high,given,C
+C3,female,low,not given,Q
+A1,female,high,given,S
+C3,male,medium,not given,C
+C3,male,low,not given,C
+C3,female,medium,given,S
+A1,male,high,given,C
+B2,female,medium,not given,S
+B2,female,medium,not given,S
+C3,male,low,not given,Q
+A1,female,high,given,C
+C3,male,low,not given,S
+C3,male,low,not given,Q
+C3,female,medium,not given,S
+C3,male,low,not given,S
+C3,female,medium,not given,Q
+B2,male,medium,not given,S
+C3,male,low,not given,S
+C3,male,low,not given,S
+A1,male,high,given,C
+C3,female,medium,not given,S
+C3,male,low,not given,C
+C3,male,low,not given,S
+C3,male,low,not given,S
+C3,male,low,not given,C
+B2,male,medium,not given,S
+C3,female,low,not given,S
+C3,male,high,not given,S
+C3,female,high,not given,S
+A1,female,high,not given,S
+A1,male,high,given,C
+B2,male,medium,not given,S
+A1,male,high,not given,S
+C3,male,medium,not given,S
+A1,male,high,given,S
+C3,male,low,not given,S
+A1,male,high,not given,S
+B2,male,medium,not given,S
+A1,female,high,given,C
+C3,male,low,not given,C
+C3,male,low,not given,S
+C3,female,medium,not given,S
+C3,male,high,not given,S
+C3,male,low,not given,S
+A1,female,high,given,S
+C3,female,low,not given,S
+A1,male,high,given,S
+C3,female,medium,not given,S
+C3,female,low,not given,Q
+C3,male,medium,not given,C
+B2,female,medium,not given,S
+C3,male,low,not given,S
+B2,male,medium,not given,S
+C3,female,medium,not given,S
+A1,male,high,given,C
+C3,male,high,not given,S
+A1,female,high,not given,C
+C3,female,medium,not given,S
+C3,male,low,not given,S
+C3,male,low,not given,C
+C3,male,medium,not given,S
+C3,male,low,not given,C
+C3,male,high,not given,S
+B2,female,high,not given,S
+B2,female,high,not given,S
+A1,male,high,given,C
+B2,female,high,given,S
+A1,female,high,given,C
+B2,male,medium,not given,S
+A1,male,high,given,C
+A1,female,high,given,S
+C3,male,low,not given,Q
+A1,female,high,given,C
+B2,male,medium,not given,S
+B2,female,medium,not given,S
+C3,male,low,not given,S
+C3,female,high,not given,S
+B2,male,medium,not given,S
+B2,male,medium,not given,S
+A1,male,medium,not given,S
+C3,male,medium,not given,S
+B2,male,medium,not given,Q
+B2,male,high,not given,S
+C3,male,low,not given,S
+A1,male,high,given,C
+C3,female,low,not given,S
+B2,male,medium,not given,S
+C3,female,low,not given,S
+C3,female,medium,not given,Q
+C3,male,medium,not given,S
+A1,male,high,given,C
+B2,female,medium,not given,S
+B2,male,medium,not given,S
+A1,male,medium,not given,C
+C3,female,low,not given,Q
+B2,male,medium,not given,S
+A1,female,high,given,C
+C3,male,low,not given,S
+C3,male,medium,not given,S
+C3,male,low,not given,S
+B2,male,high,not given,S
+B2,female,medium,not given,S
+C3,female,low,not given,S
+A1,male,high,given,S
+C3,female,low,not given,Q
+A1,male,high,not given,S
+A1,female,high,given,C
+C3,male,low,not given,S
+B2,female,medium,not given,C
+C3,male,low,not given,S
+B2,female,medium,given,S
+C3,male,low,not given,S
+A1,female,high,not given,C
+C3,female,medium,not given,C
+C3,male,low,not given,S
+C3,female,low,not given,Q
+C3,male,medium,not given,S
+B2,male,medium,not given,S
+B2,male,high,not given,S
+A1,female,high,not given,S
+C3,male,low,not given,S
+C3,male,low,not given,Q
+A1,male,high,given,C
+C3,male,low,not given,S
+A1,male,high,given,C
+C3,male,low,not given,C
+B2,female,medium,not given,S
+A1,female,high,given,C
+A1,female,high,not given,C
+B2,female,high,not given,S
+A1,male,high,given,C
+C3,male,low,not given,S
+C3,male,medium,not given,S
+A1,male,high,given,S
+B2,female,medium,not given,S
+B2,male,high,not given,S
+B2,female,medium,not given,S
+C3,female,medium,not given,C
+B2,female,high,not given,S
+C3,male,low,not given,S
+A1,male,high,given,C
+C3,male,medium,not given,S
+C3,male,medium,not given,S
+C3,male,low,not given,S
+C3,male,low,not given,Q
+C3,male,low,not given,S
+B2,female,medium,not given,S
+C3,male,low,not given,S
+C3,male,medium,not given,S
+C3,male,low,not given,S
+B2,female,medium,not given,S
+C3,female,medium,not given,S
+B2,male,medium,not given,C
+C3,male,low,not given,S
+A1,male,low,not given,S
+C3,male,low,not given,S
+C3,female,low,not given,S
+C3,male,medium,not given,S
+A1,male,high,given,C
+C3,male,low,not given,Q
+A1,female,high,given,C
+C3,female,medium,not given,Q
+C3,male,low,not given,C
+B2,female,medium,not given,S
+B2,male,medium,not given,S
+B2,male,medium,not given,S
+B2,male,medium,not given,S
+B2,male,medium,not given,S
+C3,female,medium,not given,S
+C3,male,medium,not given,S
+C3,female,low,not given,Q
+C3,female,medium,not given,C
+C3,female,medium,not given,S
+C3,male,low,not given,S
+C3,male,low,not given,S
+A1,male,high,given,S
+C3,male,low,given,C
+C3,male,low,not given,S
+A1,male,high,not given,S
+C3,female,low,not given,Q
+C3,male,low,not given,C
+A1,male,high,given,S
+C3,male,medium,not given,S
+C3,male,low,not given,S
+B2,female,high,not given,C
+C3,male,medium,not given,C
+A1,male,high,not given,S
+C3,male,low,not given,S
+C3,male,low,not given,S
+B2,male,medium,given,C
+B2,male,medium,not given,S
+C3,male,medium,not given,S
+C3,female,low,not given,Q
+A1,female,high,given,S
+A1,male,high,given,S
+C3,male,medium,not given,S
+A1,male,high,given,S
+C3,female,medium,not given,S
+C3,male,medium,not given,S
+C3,male,low,not given,C
+C3,male,low,not given,S
+C3,female,low,not given,Q
+A1,female,high,given,C
+C3,female,low,not given,Q
+A1,male,high,given,C
+B2,male,medium,not given,S
+C3,male,low,not given,S
+B2,male,high,not given,S
+C3,male,low,not given,S
+C3,male,low,given,C
+B2,male,medium,given,S
+A1,male,high,not given,S
+A1,female,high,not given,S
+C3,male,low,not given,S
+B2,female,high,given,S
+A1,male,high,not given,C
+B2,male,medium,not given,S
+B2,male,medium,not given,S
+B2,female,high,not given,S
+A1,male,high,given,C
+C3,male,low,not given,C
+C3,female,medium,not given,C
+C3,male,low,not given,S
+A1,male,medium,given,S
+B2,male,medium,not given,S
+C3,male,low,not given,C
+B2,male,high,not given,S
+C3,male,low,not given,C
+B2,male,medium,not given,S
+C3,male,low,not given,S
+C3,male,high,not given,S
+A1,female,high,given,C
+C3,male,medium,not given,S
+C3,female,low,not given,S
+B2,male,medium,not given,S
+C3,female,low,not given,C
+B2,male,medium,not given,S
+B2,female,medium,not given,S
+A1,female,high,given,C
+B2,male,medium,not given,S
+B2,male,high,not given,S
+B2,male,high,not given,S
+C3,female,medium,not given,S
+A1,male,medium,given,S
+A1,female,high,given,S
+C3,male,low,not given,S
+C3,male,low,not given,Q
+C3,female,medium,not given,S
+C3,male,high,not given,S
+B2,female,high,not given,C
+B2,female,medium,not given,S
+C3,male,medium,not given,S
+A1,female,high,given,C
+C3,female,high,not given,S
+C3,male,medium,not given,C
+C3,female,high,not given,S
+A1,female,high,not given,C
+B2,male,medium,not given,C
+B2,male,medium,not given,S
+A1,female,high,given,C
+A1,male,low,given,S
+B2,male,medium,not given,S
+A1,female,high,given,S
+A1,female,high,not given,C
+C3,female,medium,not given,S
+B2,male,medium,not given,S
+A1,male,high,given,S
+C3,male,high,not given,S
+C3,male,low,not given,Q
+C3,male,low,not given,Q
+C3,female,medium,not given,S
+C3,female,medium,not given,S
+B2,male,medium,not given,S
+B2,female,high,not given,S
+C3,male,low,not given,S
+B2,male,medium,not given,S
+C3,male,low,not given,Q
+C3,male,medium,not given,S
+A1,male,high,given,S
+A1,female,high,given,S
+C3,male,medium,not given,S
+B2,male,medium,not given,S
+C3,male,medium,not given,S
+A1,female,high,given,S
+C3,male,low,not given,Q
+A1,female,high,given,C
+C3,male,low,not given,S
+C3,male,low,not given,Q
+A1,female,high,given,S
+B2,male,medium,not given,S
+A1,female,high,not given,C
+A1,male,high,not given,S
+A1,male,high,given,C
+B2,male,medium,given,C
+B2,male,medium,not given,S
+A1,male,high,given,C
+C3,female,low,not given,Q
+C3,female,medium,not given,S
+C3,female,low,not given,Q
+A1,female,high,given,Q
+C3,female,low,not given,S
+C3,male,low,not given,S
+A1,female,high,given,C
+C3,male,low,not given,S
+C3,male,low,not given,S
+C3,male,medium,not given,C
