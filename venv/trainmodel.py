@@ -22,6 +22,6 @@ with open('dataset/pre_train.csv', newline='') as myFile:
             decision_trees.append(maketree(data, [], names, 'root'))
             el_ct = 0
 #print(decision_trees)
-
-# for el in decision_trees:
-#     print(el)
+print("All 10 decision trees: ")
+for el in decision_trees:
+    print(el)

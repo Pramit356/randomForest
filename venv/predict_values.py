@@ -1,5 +1,4 @@
 from trainmodel import decision_trees
-#from preprocess import is_number
 
 def is_number(n):
     try:
