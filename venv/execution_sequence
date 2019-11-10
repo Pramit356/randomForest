@@ -1,0 +1,3 @@
+First run preprocess.py -> This will create output files pre_train.csv and pre_test.csv
+Next run trainmodel.py -> it uses decisontree.py to make the tree
+Next run test_model.py -> It uses find_values() fn in predict_values.py to get the values as output (0 or 1). It also prints accuracy 
