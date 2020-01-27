@@ -36,4 +36,6 @@ match = 0
 for i in range(len(outputs)):
     if output_compare[i] == outputs[i]:
         match+=1
+print("No of matched results: ", match)
+print("Total results in test data: 418")
 print("Accuracy on test data = ", str((match/len(outputs))*100))
